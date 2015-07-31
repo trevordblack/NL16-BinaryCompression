@@ -194,7 +194,7 @@ module hf_decompression (
 			leaf_P_value <= 4'b0;
 		end
 		else begin
-			if (~building_tree) begin
+			if (building_tree) begin
 			
 			end
 			else begin
