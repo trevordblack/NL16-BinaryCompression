@@ -1,0 +1,13 @@
+TODO:
+ All of the HDL
+ How to solve for the tree
+  Need to know how to find lowest two values of nodes
+  Need to know how to node in hardware :(
+
+Problems:
+Solve for leaf collisions:
+ i.e. 011 the same as 0011
+
+
+Levers:
+ 1) The implementation to remove leaf collisions

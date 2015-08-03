@@ -4,7 +4,6 @@
  *
 */
 
-
 module hf_decompression (
 	input wire       hf_in,
 	output reg [3:0] hf_out,
